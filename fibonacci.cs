@@ -2,7 +2,7 @@ using System;
 class MainClass{
 	public static void {
 
-		fib_array = [];
+		int[] fib_array = new int[40]
 		fib_array[0] = 1;
 		fib_array[1] = 1;
 
